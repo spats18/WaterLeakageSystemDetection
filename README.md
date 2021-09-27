@@ -17,8 +17,7 @@ The images of the schematic for the water tap leakage system are attached. The m
 ![image](https://user-images.githubusercontent.com/32418411/133656107-2b77abbc-cae6-4fa7-b15c-28f73e8b34be.png)
 
 
-Fig. 11 Circuit diagram and verification of the working for Phase-1
-The complete working of the Phase-1 is depicted in the following link: (https://youtu.be/IDTwD7ucpg4)
+Fig. 11 Circuit diagram and verification of the working
 
-The practical working of the Phase-2 of the project could not be shown due to the unavailability
-of the hardware components.
+The complete working is depicted in the following link: (https://youtu.be/IDTwD7ucpg4)
+
